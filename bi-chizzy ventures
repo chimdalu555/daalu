@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bi-Chizzy Ventures Limited</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bi-Chizzy Ventures Limited</h1>
+    </header>
+    <div class="container">
+        <p>Welcome to our website! We are Bi-Chizzy Ventures Limited.</p>
+        
+        <h2>Contact Information</h2>
+        <p>Contact us at:</p>
+        <div class="contact-info">
+            <p>Phone: <a href="tel:+2347038110200">+2347038110200</a>, <a href="tel:+2348060255703">+2348060255703</a></p>
+            <p>WhatsApp: <a href="https://wa.me/2347038110200" target="_blank">Chat with us on WhatsApp</a></p>
+        </div>
+
+        <h2>Our Locations</h2>
+        <p>We operate in all 36 states of Nigeria:</p>
+        <ul>
+            <li>Abia</li>
+            <li>Adamawa</li>
+            <li>Akwa Ibom</li>
+            <li>Anambra</li>
+            <li>Bauchi</li>
+            <li>Bayelsa</li>
+            <li>Benue</li>
+            <li>Borno</li>
+            <li>Cross River</li>
+            <li>Delta</li>
+            <li>Ebonyi</li>
+            <li>Edo</li>
+            <li>Ekiti</li>
+            <li>Enugu</li>
+            <li>FCT (Abuja)</li>
+            <li>Gombe</li>
+            <li>Imo</li>
+            <li>Jigawa</li>
+            <li>Kaduna</li>
+            <li>Kano</li>
+            <li>Kogi</li>
+            <li>Kwara</li>
+            <li>Lagos</li>
+            <li>Nasarawa</li>
+            <li>Niger</li>
+            <li>Ogun</li>
+            <li>Ondo</li>
+            <li>Osun</li>
+            <li>Oyo</li>
+            <li>Plateau</li>
+            <li>Rivers</li>
+            <li>Sokoto</li>
+            <li>Taraba</li>
+            <li>Yobe</li>
+            <li>Zamfara</li>
+        </ul>
+
+        <h2>About Us</h2>
+        <p>This is a placeholder text for more details about Bi-Chizzy Ventures Limited.</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Bi-Chizzy Ventures Limited. All rights reserved.</p>
+    </footer>
+</body>
+</html>
